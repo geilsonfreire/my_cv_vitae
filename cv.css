@@ -1,0 +1,266 @@
+body {
+    background-color: #121212;
+    padding: 2rem 10rem;
+}
+
+/* header*/
+header.header-onda .ondatop img{
+    filter: drop-shadow(0 2px 0 #0a33bb);
+    top: 0;
+}
+
+
+/*Conteiner do left & right & footer*/
+body div.conteiner-cv{
+    width: 100%;
+    height: auto;
+    background: #fff;
+}
+
+/* Conteiner do left & right */
+section.conteiner {
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Conteiner Left*/
+section div.box-left {
+    width: 40%;
+    height: auto;
+}
+
+
+/* Imagem de Perfil */
+section div.box-left .img-perfil {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+section div.box-left .img-perfil img {
+    position: relative;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    border: solid 2px #00ff26;
+    box-shadow: 0px 40px 0px 20px #fff;
+}
+
+/* Conteiner conteúdo Left  */
+section div.conteiner-left-geral{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    padding: 4rem 0;
+    box-shadow: 10px 0 5px -5px #121212;
+    background-color: #00ff26;
+}
+
+section div.conteiner-left{
+    padding: 0 2rem;
+    color: #121212;
+}
+
+section div.conteiner-left h2{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    filter: drop-shadow(0px 1px 0px #000);
+    font-size: 1rem;
+    color: #fff;
+    margin: 2rem 0;
+}
+
+section div.conteiner-left p{
+    font-size: .85rem;
+    letter-spacing: 2px;
+    text-align: justify;
+    margin: 1rem 0;
+}
+
+section div.conteiner-left ul li{
+    list-style: none;
+    font-size: .85rem;
+    margin: 1rem 0;
+}
+
+
+/* Tecnologias*/
+section div.tec-skills{
+    height: 20rem;
+    margin-top: 4px;
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 10px 0 5px -5px #121212;
+}
+
+section div.tec-skills h2.txt-tec-skills{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    filter: drop-shadow(0px 1px 0px #00ff26);
+    font-size: 1rem;
+    color: #000;
+    margin: 2rem 0;
+}
+
+section div.tec-skills-box img{
+    width: 3rem;
+    height: 3rem;
+    margin: .50rem;
+}
+
+section div.tec-skills-box img:hover{
+    transform: scale(1.1);
+    filter: drop-shadow(2px 2px 2px #00ff26);
+}
+
+
+/* Conteiner Right*/
+section div.box-right {
+    width: 60%;
+    height: auto;
+    padding: 0 1rem;
+    margin-right: 1rem;
+    border-radius: 20px;
+    box-shadow: 5px 0 1px -5px #121212;
+}
+
+
+/* Cabeçalho do Curriculo right*/
+section div.box-right .titulo-cv{
+    text-align: center;   
+}
+
+section div.box-right .titulo-cv h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #00ff26;
+    margin-bottom: 1rem;
+    filter: drop-shadow(0px 2px 0px #0a33bb);
+}
+
+section div.box-right .titulo-cv h2{
+    font-size: .85rem;
+    letter-spacing: 5px;
+}
+
+
+/* Contatos e links  */
+section div.box-right .contatos{
+    margin: 3rem 0;
+}
+
+section div.box-right .contatos h2{
+    font-size: .85rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+section div.box-right .contatos ul{
+    display: flex;
+    gap: .80rem;
+    margin: 1rem 0;
+}
+
+section div.box-right .contatos ul i{
+    list-style: none;
+    font-size: .85rem;
+    margin: 0 .30rem;
+    color: #00ff26;
+    filter: drop-shadow(0px 2px 0px #000);
+}
+
+section div.box-right .contatos ul i:hover{
+    color: #000;
+    transform: scaleX(1.1);
+    filter: drop-shadow(0px 2px 0px #00ff26);
+}
+
+section div.box-right .contatos ul li span{
+    color: #000;
+    font-size: .65rem;
+}
+
+section div.box-right .contatos ul li a{
+    text-decoration: none;
+    color: #00ff26;
+    font-size: .85rem;
+    margin: 0 .30rem;
+}
+
+section div.box-right .contatos ul li:hover{
+    transform: scaleX(1.1);
+
+}
+
+
+/* Conteiner conteudo geral Right */
+section div.conteiner-right-geral{
+    width: 100%;
+    height: auto;
+    margin-top: 9rem;
+    border-radius: 20px;
+    
+}
+section div.conteiner-right{
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: -5px 0 1px -5px #121212;
+    background-color: #fff;
+}
+
+section div.conteiner-right:hover{
+    box-shadow: 0px 0px 1px 0px #121212;
+    transform: scaleX(1.02);
+}
+
+section div.conteiner-right h2{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: justify;
+    filter: drop-shadow(0px 1px 0px #000);
+    font-size: 1rem;
+    color: #00ff26;
+    margin-bottom: 1rem;
+}
+
+section div.conteiner-right span{
+    margin: 0 1rem;
+}
+
+section div.conteiner-right h3{
+    letter-spacing: 5px;
+    font-size: 1rem;
+    margin: .50rem 1rem;
+}
+
+section div.conteiner-right h4 span{
+    margin-left: .50rem;
+    letter-spacing: 2px;
+    font-size: .85rem;
+}
+
+section div.conteiner-right h4 span:nth-child(2),
+section div.conteiner-right h4 span:nth-child(3) {
+    margin-left: 16rem;
+}
+
+section div.conteiner-right p{
+    font-size: .85rem;
+    letter-spacing: 2px;
+    text-align: justify;
+    margin: 1rem 0;
+}
+
+/* footer */
+footer.footer-onda .ondabotton img{
+    filter: drop-shadow(0px -2px 0px #0a33bb);
+    bottom: 0;
+}
