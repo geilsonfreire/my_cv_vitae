@@ -1,21 +1,18 @@
 # my_cv_vitae
 Este repositório e dedicado a desenvolvimento de uma pagina do meu curriculum vitae!
 
-<div class="read-img">
-<img src="packs/img_readme/cv.png" alt="Curriculum Vitae">
+# CURRICULUN VITAE
 <img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/img_readme/cv.png" alt="Curriculum Vitae">
-</div>
+
 
 O projeto foi finalizado com sucesso, alcançando todos os objetivos estabelecidos. Utilizamos uma combinação de tecnologias web modernas, incluindo HTML, CSS e JavaScript, juntamente com a biblioteca Bootstrap para garantir um design responsivo e uma experiência de usuário aprimorada.
 
 
-#Tecnologias
-<div class="read-img">
-    <img src="packs/skills/css-3.png" wwidth="40" height="40" alt="CSS">
-    <img src="packs/skills/html-5.png" wwidth="40" height="40" alt="HTML">
-    <img src="packs/skills/js.png" wwidth="40" height="40" alt="JavaScript">
-    <img src="packs/skills/bootstrap.png" wwidth="40" height="40" alt="Bootstrap">
-</div>
+#TECNOLOGIAS
+<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/css-3.png" wwidth="40" height="40" alt="CSS">
+<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/html-5.png" wwidth="40" height="40" alt="HTML">
+<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/js.png" wwidth="40" height="40" alt="JavaScript">
+<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/bootstrap.png" wwidth="40" height="40" alt="Bootstrap">
 
 
 
