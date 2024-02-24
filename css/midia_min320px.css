@@ -85,12 +85,13 @@
     section div.box-right .contatos h2{
         font-size: .60rem;
         letter-spacing: 2px;
+        margin-left: .60rem;
     }
     
     section div.box-right .contatos ul{
         display: grid;
         gap: .50rem;
-        margin: .50rem 0;
+        margin: .50rem .50rem;
     }
     
     section div.box-right .contatos ul i{
@@ -103,6 +104,7 @@
     
     section div.conteiner-right-geral{
         margin: .30rem 0;
+        padding: 0 .50rem;
     }
 
     section div.conteiner-right{
@@ -132,7 +134,7 @@
     
     section div.conteiner-right h4 span:nth-child(2),
     section div.conteiner-right h4 span:nth-child(3) {
-        margin-left: .55rem;
+        margin-left: 1rem;
     }
     
     section div.conteiner-right p{
