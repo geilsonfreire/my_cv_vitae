@@ -3,7 +3,6 @@ Este repositório e dedicado a desenvolvimento de uma pagina do meu curriculum v
 
 # CURRICULUN VITAE
 
-<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/img_readme/cv.png" width="400" height="700" alt="Curriculum Vitae">
 <img src="Packs/img_readme/cv.png" width="400" height="700" alt="Curriculum Vitae">
 
 
@@ -12,10 +11,10 @@ O projeto foi finalizado com sucesso, alcançando todos os objetivos estabelecid
 
 # TECNOLOGIAS
 
-<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/css-3.png" width="40" height="40" alt="CSS">
-<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/html-5.png" width="40" height="40" alt="HTML">
-<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/js.png" width="40" height="40" alt="JavaScript">
-<img src="https://github.com/geilsonfreire/my_cv_vitae/blob/main/Packs/skills/bootstrap.png" width="40" height="40" alt="Bootstrap">
+<img src="Packs/skills/html-5.png" width="40" height="40" alt="HTML">
+<img src="Packs/skills/css-3.png" width="40" height="40" alt="CSS">
+<img src="Packs/skills/js.png" width="40" height="40" alt="JavaScript">
+<img src="Packs/skills/bootstrap.png" width="40" height="40" alt="Bootstrap">
 
 
 
