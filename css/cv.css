@@ -176,7 +176,7 @@ section div.box-right .contatos ul i{
 
 section div.box-right .contatos ul i:hover{
     color: #000;
-    transform: scaleX(1.1);
+    transform: scaleX(1.01);
     filter: drop-shadow(0px 2px 0px #00ff26);
 }
 
@@ -193,7 +193,7 @@ section div.box-right .contatos ul li a{
 }
 
 section div.box-right .contatos ul li:hover{
-    transform: scaleX(1.1);
+    transform: scaleX(1.01);
 
 }
 
