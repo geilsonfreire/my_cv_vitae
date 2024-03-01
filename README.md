@@ -3,7 +3,7 @@
 # CURRICULUN VITAE
 
 <img src="Packs/img_readme/celular.png" width="30%" height="auto" alt="Celular">
-<img src="Packs/img_readme/notebook.png" width="60%" height="auto" alt="Celular">
+<img src="Packs/img_readme/notebook.png" width="50%" height="auto" alt="NoteBook">
 
 
 O projeto foi finalizado com sucesso, alcançando todos os objetivos estabelecidos. Utilizamos uma combinação de tecnologias web modernas, incluindo HTML, CSS e JavaScript, juntamente com a biblioteca Bootstrap para garantir um design responsivo e uma experiência de usuário aprimorada.
