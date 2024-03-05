@@ -30,3 +30,14 @@ O JavaScript desempenhou um papel crucial na interatividade da página, permitin
 A biblioteca Bootstrap foi integrada ao projeto para aproveitar seus componentes predefinidos e seu sistema de grid responsivo, agilizando o desenvolvimento e garantindo uma aparência moderna e profissional para o site.
 
 No geral, a finalização do projeto foi bem-sucedida, resultando em uma aplicação web funcional, esteticamente agradável e totalmente responsivo! 
+
+## Créditos:
+<a href="https://estacio.br/">Estácio S.A</a> Faculdade de ensino superior
+
+
+<a href="https://github.com/features/copilot">GitHub Copilot</a> A ferramenta de desenvolvimento de IA mais amplamente adotada no mundo. O assistente de codificação de IA que eleva os fluxos de trabalho do desenvolvedor.
+
+
+<a href="https://icons.getbootstrap.com/">Biblioteca bootstrap ICON</a> Ícones de inicialização
+Biblioteca de ícones de código aberto gratuita e de alta qualidade com mais de 2.000 ícones. Inclua-os da maneira que desejar: SVGs, sprites SVG ou fontes da web. Use-os com ou sem Bootstrap em qualquer projeto.
+
