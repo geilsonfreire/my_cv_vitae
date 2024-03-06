@@ -3,8 +3,7 @@
 # CURRICULUN VITAE
 
 <div>
-    <img src="Packs/img_readme/celular.png" width="30%" height="auto" alt="Celular">
-    <img src="Packs/img_readme/notebook.png" width="60%" height="auto" alt="NoteBook">
+    <img src="Packs/img_readme/CVApFull.gif" width="100%" height="auto" alt="Celular">
 </div>
 
 
